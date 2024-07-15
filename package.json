@@ -35,6 +35,6 @@
     },
     "dependencies": {
         "json-to-graphql-query": "^2.2.5",
-        "@crystallize/js-api-client": "workspace:*"
+        "@crystallize/js-api-client": "^3.0.0"
     }
 }
